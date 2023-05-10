@@ -5,7 +5,7 @@ public:
 	currVisited[source] = true;
 
 	// Explore adj vertices
-    if(safe[source]==false){return false;}
+
 	for(auto adj: graph[source]){
 		if(visited[adj] == false){
 			// if cycle exists w.r.t adj vertex then false is returned
