@@ -24,7 +24,7 @@ public:
 }
 void solve(stack<int>&st)
 {
-    if(st.size()==1)
+    if(st.size()==0)
     {
         return;
     }
