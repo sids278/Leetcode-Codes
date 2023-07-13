@@ -30,7 +30,7 @@ public:
             int stops = it.first;
             int node = it.second.first;
             int cost = it.second.second;
-             if(node==dst)continue;
+             // if(node==dst)continue;
             // We stop the process as soon as the limit for the stops reaches.
             if (stops > k)
                 continue;
