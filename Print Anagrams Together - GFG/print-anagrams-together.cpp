@@ -12,16 +12,25 @@ class Solution{
   public:
     vector<vector<string> > Anagrams(vector<string>& string_list) {
         //code here
-        vector<vector<string>> vect;
-    unordered_map<string,vector<string>> mp;
-    for(int i=0;i<string_list.size();i++){
-        string word=string_list[i];
-        sort(word.begin(),word.end());
-        mp[word].push_back(string_list[i]);
-    }
-    for(auto i:mp)
-    vect.push_back(i.second);
-    return vect ;
+        unordered_map<string,vector<string>>mp;
+        for(auto x:string_list){
+            string temp=x;
+            sort(temp.begin(),temp.end());
+            if(mp.find(temp)==mp.end()){
+                vector<string>ans;
+                ans.push_back(x);
+                mp[temp]=ans;
+            }
+            else{
+                mp[temp].push_back(x);
+            }
+        }
+        vector<vector<string>>fin;
+        for(auto x:mp){
+            fin.push_back(x.second);
+        }
+        return fin;
+        
     }
 };
 
