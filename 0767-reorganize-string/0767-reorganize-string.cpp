@@ -33,10 +33,8 @@ public:
             else return "";
             return ans;
         }
-        else if(pq.size()==0)return ans;
-        else{
-            return "";
-        }
+        return ans;
+        
         
     }
 };
