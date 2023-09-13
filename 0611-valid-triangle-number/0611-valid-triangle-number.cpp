@@ -10,16 +10,24 @@ public:
         int n=nums.size();
         if(n<3)return 0;
         sort(nums.begin(),nums.end());
-        int count=0;
-        for (int i = 0; i < n - 2; ++i) {
-            int k = i + 2;
-            for (int j = i + 1; j < n - 1 && nums[i] != 0; ++j) {
-                while (k < n && nums[i] + nums[j] > nums[k]) {
-                    ++k;
+        int i=0;
+        int j=1;
+        int k=2;
+        int ans=0;
+        
+
+        while (i < n - 2) {
+            while (j < n - 1) {
+                while (k < n && valid(i, j, k, nums)) {
+                    k++;
                 }
-                count += k - j - 1;
+                if(k>j)ans += k - j - 1;
+                j++;
             }
+            i++;
+            j = i + 1;
+            k = j + 1;
         }
-        return count;
+        return ans;
     }
 };
