@@ -1,43 +1,37 @@
 class Solution {
 public:
-    unordered_map<string, vector<string>> mp = {
-        {"2", {"a", "b", "c"}},
-        {"3", {"d", "e", "f"}},
-        {"4", {"g", "h", "i"}},
-        {"5", {"j", "k", "l"}},
-        {"6", {"m", "n", "o"}},
-        {"7", {"p", "q", "r", "s"}},
-        {"8", {"t", "u", "v"}},
-        {"9", {"w", "x", "y", "z"}}
-    };
+    vector<string> letterCombinations(string digits) {
+        if (digits.empty()) return {};
 
-    vector<string>ans;
-    vector<string>f(string number){
-        if(number.empty())return{};
-        int n=number.length();
-        if(n==1)return mp[number];
-        char start=number[0];
-        string noho(1, start);
-        vector<string>v=mp[noho];
-        vector<string>prev=f(number.substr(1));
-        for(auto x:prev){
-            for(auto y:v){
-                string wow=y+x;
-                if(wow.length()==n)ans.push_back(wow);
+        vector<vector<string>> mp = {
+            {}, {}, {"a", "b", "c"}, {"d", "e", "f"}, {"g", "h", "i"},
+            {"j", "k", "l"}, {"m", "n", "o"}, {"p", "q", "r", "s"},
+            {"t", "u", "v"}, {"w", "x", "y", "z"}
+        };
+
+        vector<string> result;
+        string current;
+
+        backtrack(digits, 0, mp, current, result);
+
+        return result;
+    }
+
+private:
+    void backtrack(const string& digits, int index, const vector<vector<string>>& mp,
+                   string& current, vector<string>& result) {
+        if (index == digits.length()) {
+            result.push_back(current);
+            return;
+        }
+
+        int digit = digits[index] - '0';
+        for (const string& letter : mp[digit]) {
+            for (char c : letter) {
+                current.push_back(c);
+                backtrack(digits, index + 1, mp, current, result);
+                current.pop_back();
             }
         }
-        for(int i=0;i<ans.size();i++){
-            if(ans[i].length()!=n)ans.erase(ans.begin()+i);
-        }
-        return ans;
-    }
-    vector<string> letterCombinations(string number) {
-        int n=number.size();
-        vector<string>rs=f(number);
-        vector<string>ans1;
-        for(auto x:rs){
-            if(x.length()==n)ans1.push_back(x);
-        }
-        return ans1;
     }
 };
