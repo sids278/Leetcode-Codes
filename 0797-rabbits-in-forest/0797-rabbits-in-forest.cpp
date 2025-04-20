@@ -15,11 +15,15 @@ public:
         }
 
         for (auto x : mp) {
-            int val = x.second;
-            int key = x.first;
+            int key = x.first;     // rabbit's answer
+            int val = x.second;    // how many rabbits gave this answer
             int groupSize = key + 1;
-            int groups = (val + key) / groupSize;  // ceil(val / (key + 1))
-            ans += groups * groupSize;
+
+            if (val % groupSize == 0) {
+                ans += (val / groupSize) * groupSize;
+            } else {
+                ans += ((val / groupSize) + 1) * groupSize;
+            }
         }
 
         return ans;
