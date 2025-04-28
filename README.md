@@ -16,10 +16,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Prefix Sum
+|  |
+| ------- |
+| [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 <!---LeetCode Topics End-->
