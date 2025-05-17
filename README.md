@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/sids278/Leetcode-Codes/tree/master/0115-distinct-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sids278/Leetcode-Codes/tree/master/0115-distinct-subsequences) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Array
 |  |
 | ------- |
@@ -33,11 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +90,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 <!---LeetCode Topics End-->
