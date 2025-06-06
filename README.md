@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sids278/Leetcode-Codes/tree/master/0115-distinct-subsequences) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sids278/Leetcode-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -52,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sids278/Leetcode-Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Queue
 |  |
@@ -124,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
