@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [1293-three-consecutive-odds](https://github.com/sids278/Leetcode-Codes/tree/master/1293-three-consecutive-odds) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sids278/Leetcode-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3639-zero-array-transformation-i](https://github.com/sids278/Leetcode-Codes/tree/master/3639-zero-array-transformation-i) |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Graph
 |  |
@@ -118,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/sids278/Leetcode-Codes/tree/master/0075-sort-colors) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Topological Sort
 |  |
 | ------- |
@@ -138,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 <!---LeetCode Topics End-->
