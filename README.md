@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [1293-three-consecutive-odds](https://github.com/sids278/Leetcode-Codes/tree/master/1293-three-consecutive-odds) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 ## Stack
 |  |
@@ -147,4 +149,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
