@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sids278/Leetcode-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sids278/Leetcode-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -122,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sids278/Leetcode-Codes/tree/master/0075-sort-colors) |
+| [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Topological Sort
@@ -139,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 ## Stack
