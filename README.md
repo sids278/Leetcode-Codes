@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
+| [3336-water-bottles-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3336-water-bottles-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
@@ -162,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Simulation
+|  |
+| ------- |
+| [3336-water-bottles-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
