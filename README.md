@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sids278/Leetcode-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sids278/Leetcode-Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sids278/Leetcode-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sids278/Leetcode-Codes/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sids278/Leetcode-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sids278/Leetcode-Codes/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sids278/Leetcode-Codes/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sids278/Leetcode-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3201-distribute-candies-among-children-ii) |
 ## Stack
 |  |
