@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sids278/Leetcode-Codes/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sids278/Leetcode-Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sids278/Leetcode-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2334-number-of-flowers-in-full-bloom](https://github.com/sids278/Leetcode-Codes/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2915-count-of-interesting-subarrays](https://github.com/sids278/Leetcode-Codes/tree/master/2915-count-of-interesting-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3583-count-special-triplets](https://github.com/sids278/Leetcode-Codes/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/sids278/Leetcode-Codes/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sids278/Leetcode-Codes/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sids278/Leetcode-Codes/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sids278/Leetcode-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -108,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sids278/Leetcode-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Matrix
