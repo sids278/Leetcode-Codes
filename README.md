@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/sids278/Leetcode-Codes/tree/master/0115-distinct-subsequences) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -182,5 +183,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3336-water-bottles-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3336-water-bottles-ii) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
