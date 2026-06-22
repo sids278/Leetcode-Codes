@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sids278/Leetcode-Codes/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sids278/Leetcode-Codes/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sids278/Leetcode-Codes/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -198,4 +199,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+## Graph Theory
+|  |
+| ------- |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 <!---LeetCode Topics End-->
