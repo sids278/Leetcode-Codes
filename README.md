@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/sids278/Leetcode-Codes/tree/master/2833-furthest-point-from-origin) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/sids278/Leetcode-Codes/tree/master/3498-reverse-degree-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sids278/Leetcode-Codes/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3336-water-bottles-ii](https://github.com/sids278/Leetcode-Codes/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/sids278/Leetcode-Codes/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
