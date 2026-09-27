@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sids278/Leetcode-Codes/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/sids278/Leetcode-Codes/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -224,4 +225,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/sids278/Leetcode-Codes/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
