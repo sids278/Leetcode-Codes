@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/sids278/Leetcode-Codes/tree/master/0115-distinct-subsequences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sids278/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sids278/Leetcode-Codes/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sids278/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/sids278/Leetcode-Codes/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sids278/Leetcode-Codes/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sids278/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/sids278/Leetcode-Codes/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sids278/Leetcode-Codes/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sids278/Leetcode-Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
