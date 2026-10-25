@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/sids278/Leetcode-Codes/tree/master/0075-sort-colors) |
 | [0797-rabbits-in-forest](https://github.com/sids278/Leetcode-Codes/tree/master/0797-rabbits-in-forest) |
+| [1254-number-of-closed-islands](https://github.com/sids278/Leetcode-Codes/tree/master/1254-number-of-closed-islands) |
 | [1293-three-consecutive-odds](https://github.com/sids278/Leetcode-Codes/tree/master/1293-three-consecutive-odds) |
 | [1449-form-largest-integer-with-digits-that-add-up-to-target](https://github.com/sids278/Leetcode-Codes/tree/master/1449-form-largest-integer-with-digits-that-add-up-to-target) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sids278/Leetcode-Codes/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sids278/Leetcode-Codes/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sids278/Leetcode-Codes/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sids278/Leetcode-Codes/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
@@ -217,10 +219,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sids278/Leetcode-Codes/tree/master/1254-number-of-closed-islands) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/sids278/Leetcode-Codes/tree/master/1254-number-of-closed-islands) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/sids278/Leetcode-Codes/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph Theory
 |  |
@@ -236,4 +240,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/sids278/Leetcode-Codes/tree/master/0086-partition-list) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sids278/Leetcode-Codes/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
